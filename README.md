@@ -6,7 +6,7 @@
 * Direct download link  
 `https://github.com/LiferaySavvy/liferay72-ddm-custom-field-mvn/archive/master.zip`     
 * Update Liferay Home path in `pom.xml` file. 
-* Locate to project or import into your IDE run following `maven` tasks.  
+* Locate to project or import into your IDE run following `maven` goals.  
 
 ````
 mvnw clean install
