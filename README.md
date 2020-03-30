@@ -20,6 +20,7 @@ mvn bundle-support:deploy
 
 ````
 ### Documentation 
-* [link](link)
-* [link](link) 
+* [Liferay 7/DXP Overriding Liferay Portal Default AUI/YUI Modules](http://www.liferaysavvy.com/2020/03/liferay-7dxp-overriding-liferay-portal.html)
+* [Liferay 7/DXP Dynamic Data Mapping Custom Field](http://www.liferaysavvy.com/2020/03/liferay-7dxp-dynamic-data-mapping.html)
+* [Liferay 7/DXP DDM Custom Field Module Development](http://www.liferaysavvy.com/2020/03/liferay-7dxp-ddm-custom-field-module.html)
 
